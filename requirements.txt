@@ -1,0 +1,9 @@
+instagrapi
+python-dotenv
+questionary
+rich
+requests
+groq
+pillow
+streamlit
+nest_asyncio
